@@ -38,6 +38,3 @@
 [![](https://visitcount.itsvg.in/api?id=pramodlaha08&icon=7&color=6)](https://visitcount.itsvg.in)
 
 ---
- **🌱 I’m not just a web developer; I'm a tech enthusiast who loves exploring all things tech! 🚀**
----
-
