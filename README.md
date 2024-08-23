@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Pramod Kumar Laha👋</h1>
+![logo](https://github.com/pramodlaha08/pramodlaha08/blob/main/coverphoto.png)
+<h1 align="center">Hi there, I'm Pramod Laha👋</h1>
 <h3 align="center">BCA Student | Passionate Developer | From Duhabi</h3>
 
 # 💫 About Me:
