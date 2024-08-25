@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=pramodlaha08&theme=tokyonight&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&locale&show=prs_merged,prs_merged_percentage&rank_icon=github
 )<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pramodlaha08&theme=default&bg_color=00000000&hide_border=false&text_bold=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodlaha08&theme=tokyonight&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=true&layout=donut&text_bold=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodlaha08&theme=tokyonight&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=true&layout=compact&text_bold=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&text_bold=true)
