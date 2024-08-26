@@ -38,6 +38,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=pramodlaha08&icon=7&color=6)](https://visitcount.itsvg.in)
 
+# Some Entertainment
+![github contribution grid snake animation](https://raw.githubusercontent.com/pramodlaha08/pramodlaha08/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/pramodlaha08/pramodlaha08/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ---
 <p align="center"><strong>Made with ❤️ by Pramod Laha</strong></p>
 
