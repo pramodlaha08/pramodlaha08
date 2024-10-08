@@ -9,7 +9,7 @@
 
 - 👯I'm a self taught **developer**
 
-- 💬 Ask me about **react, gsap**
+- 💬 Ask me about **react, gsap** 
 
 - 📫 How to reach me **pramodlaha375@gmail.com**
 
