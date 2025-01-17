@@ -3,7 +3,7 @@
 <h3 align="center">BCA Student | Passionate Developer | From Duhabi</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Multi Hotel Booking Web Project**
+- 🔭 I’m currently working on **backend**
 
 - 🌱 I’m always learning new things about **frameworks and technolgoies**
 
