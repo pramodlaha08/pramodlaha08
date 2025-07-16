@@ -1,15 +1,15 @@
 ![logo](https://github.com/pramodlaha08/pramodlaha08/blob/main/coverphoto.png)
 <h1 align="center">Hi there, I'm Pramod Laha👋</h1>
-<h3 align="center">BCA Student | Passionate Developer | From Duhabi</h3>
+<h3 align="center">BCA Student | FullStack Developer | From Duhabi</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **backend**
+- 🔭 I’m currently working on **College Website**
 
-- 🌱 I’m always learning new things about **frameworks and technolgoies**
+- 🌱 I’m always learning new things about **backend**
 
 - 👯I'm a self taught **developer**
 
-- 💬 Ask me about **react, typescript, next** 
+- 💬 Ask me about **react, typescript, nextjs** 
 
 - 📫 How to reach me **pramodlaha375@gmail.com**
 
