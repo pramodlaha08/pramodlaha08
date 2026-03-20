@@ -1,4 +1,4 @@
-![logo](https://github.com/pramodlaha08/pramodlaha08/blob/main/coverphoto.png)
+![logo](https://github.com/pramodlaha08/pramodlaha08/blob/main/coverpage.png)
 <h1 align="center">Hi there, I'm Pramod Laha👋</h1>
 <h3 align="center">BCA Student | FullStack Developer | From Duhabi</h3>
 
